@@ -1,0 +1,27 @@
+main:
+  - title: Home
+    url: /index
+  - title: People
+    url: /people
+  - title: Publications
+    url: /publications
+  - title: Research
+    url: /research
+  - title: Software/data
+    url: /software-and-data
+  - title: Classes
+    url: /classes
+  - title: Theses
+    url: /theses
+  - title: News
+    url: /news
+  - title: About
+    url: /about
+
+# https://stackoverflow.com/questions/25452429/excluding-page-from-jekyll-navigation-bar
+#  subitems:
+#    - text: First menu (sub)
+ #     url: /first-menu/first-menu-sub/
+ #     subitems:
+ #       - text: First menu (sub-sub)
+  #        url: /first-menu/first-menu-sub/first-menu-sub-sub/
