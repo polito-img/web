@@ -1,5 +1,6 @@
 ---
 author: enrico
+author_profile: false
 comments: false
 #date: 2011-02-25 20:46:57+00:00
 layout: myposts
