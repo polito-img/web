@@ -1,0 +1,12 @@
+
+<!-- derived from author_profile.html -->
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+<h1 id="page-title" class="page__title">Lastest News</h1>
+<div class="entries-{{ entries_layout }}">
+      {% for post in site.posts limit:5 %}
+        {% include archive-single-post-title.html type=entries_layout %}
+      {% endfor %}
+</div>
+
