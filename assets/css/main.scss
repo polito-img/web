@@ -8,6 +8,8 @@ $x-large: 1600px;
 //$doc-font-size: 12 !default;
 //$link-color: red;
 
+//$right-sidebar-width: 300px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -35,5 +37,16 @@ html {
 
 .width-limited {
     width: 150px
+}
+
+.sidebar {
+    //border-style: solid;
+    padding-left: 2em;  // add some lateral margin
+    padding-right: 3em;
+    font-size: 11px;  // reduce title font size of  news
+}
+
+.archive__item-title {
+    margin: 1em 0 0;  // remove bottom margin
 }
 

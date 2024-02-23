@@ -44,7 +44,8 @@ defaults:
       #toc: true
       #classes: wide
       #
-      #author_profile: true
+      # This add news to all pages...
+      author_profile: true
       #read_time: true
       #comments: true
       #share: true
