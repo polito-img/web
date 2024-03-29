@@ -22,164 +22,168 @@ Full text might also be available on the university institutional repository [IR
 
 ## International Journals
 
-1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, P. Pocta, T. Mizdos, G. Van Wallendael, E. Masala
-   [Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers]({{site.baseurl}}/res/2023/01/Fotio_SPIC2023_author_version.pdf),
+1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, E. Masala,  
+   [Modeling Subject Scoring Behaviors in Subjective Experiments Based on a Discrete Quality Scale](https://doi.org/10.1109/TMM.2024.3382483),  
+   IEEE Transactions on Multimedia, 2024, accepted for publication, DOI: [10.1109/TMM.2024.3382483](https://doi.org/10.1109/TMM.2024.3382483) (ISSN: 1520-9210)
+
+1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, P. Pocta, T. Mizdos, G. Van Wallendael, E. Masala,  
+   [Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers]({{site.baseurl}}/res/2023/01/Fotio_SPIC2023_author_version.pdf),  
    Elsevier Signal Processing: Image Communication, vol. 112, Mar 2023, pp. 1-15, DOI: [10.1016/j.image.2022.116917](https://doi.org/10.1016/j.image.2022.116917) (ISSN: 0923-5965) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
-2. L. Fotio Tiotsop, T. Mizdos, M. Barkowsky, P. Pocta, A. Servetti, E. Masala
-   [Mimicking individual media quality perception with neural network based artificial observers,](http://hdl.handle.net/11583/2909256)
+2. L. Fotio Tiotsop, T. Mizdos, M. Barkowsky, P. Pocta, A. Servetti, E. Masala,  
+   [Mimicking individual media quality perception with neural network based artificial observers,](http://hdl.handle.net/11583/2909256),  
    ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), vol. 18, Jan 2022, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393) (ISSN: 1551-6857)
 
-3. L. Fotio Tiotsop, F. Agboma, G. Van Wallendael, A. Aldahdooh, S. Bosse, L. Janowski, M. Barkowsky, E. Masala
-   [On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
+3. L. Fotio Tiotsop, F. Agboma, G. Van Wallendael, A. Aldahdooh, S. Bosse, L. Janowski, M. Barkowsky, E. Masala,  
+   [On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics](http://dx.doi.org/10.1109/ACCESS.2021.3127395),  
    IEEE Access, vol. 9, Nov 2021, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395) (ISSN: 2169-3536) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
-4. L. Fotio Tiotsop, T. Mizdos, M. Uhrina, M. Barkowsky, P. Pocta, E. Masala,
-   [Modeling and estimating the subjects’ diversity of opinions in video quality assessment: a neural network based approach,](http://hdl.handle.net/11583/2846319)
+4. L. Fotio Tiotsop, T. Mizdos, M. Uhrina, M. Barkowsky, P. Pocta, E. Masala,  
+   [Modeling and estimating the subjects’ diversity of opinions in video quality assessment: a neural network based approach,](http://hdl.handle.net/11583/2846319),  
    Multimedia Tools and Applications (Springer), vol. 80, Sep 2020, p. 1-19, DOI: [10.1007/s11042-020-09704-w](http://dx.doi.org/10.1007/s11042-020-09704-w)  (ISSN: 1380-7501)
 
-5. G. Karam Illahi, T. Van Gemert, M. Siekkinen, E. Masala, A. Oulasvirta, A. Ylä-Jääski
-   [Cloud Gaming with Foveated Video Encoding](https://iris.polito.it/handle/11583/2841252),
+5. G. Karam Illahi, T. Van Gemert, M. Siekkinen, E. Masala, A. Oulasvirta, A. Ylä-Jääski,  
+   [Cloud Gaming with Foveated Video Encoding](https://iris.polito.it/handle/11583/2841252),  
    ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 16, no. 1, Feb 2020, article n. 7, pp. 1–24. DOI: [10.1145/3369110](https://doi.org/10.1145/3369110) (ISSN: 1551-6857)
 
-6. L. Fotio Tiotsop, A. Servetti, E. Masala
-   [An integer linear programming model for efficient scheduling of UGV tasks in precision agriculture under human supervision](http://hdl.handle.net/11583/2764434),
+6. L. Fotio Tiotsop, A. Servetti, E. Masala,  
+   [An integer linear programming model for efficient scheduling of UGV tasks in precision agriculture under human supervision](http://hdl.handle.net/11583/2764434),  
    Computers & Operations Research, vol. 114, Feb 2020, Article 104826, DOI: [10.1016/j.cor.2019.104826](https://doi.org/10.1016/j.cor.2019.104826) (ISSN: 0305-0548)
 
-7. A. Aldahdooh, E. Masala, O. Janssens, G. Van Wallendael, M. Barkowsky, P. Le Callet
-   [Improved Performance Measures for Video Quality Assessment Algorithms Using Training and Validation Sets,](http://hdl.handle.net/11583/2781792)
+7. A. Aldahdooh, E. Masala, O. Janssens, G. Van Wallendael, M. Barkowsky, P. Le Callet,  
+   [Improved Performance Measures for Video Quality Assessment Algorithms Using Training and Validation Sets,](http://hdl.handle.net/11583/2781792)  
    IEEE Transactions on Multimedia, vol. 21, no. 8, Aug 2019, pp. 2026-2014, DOI: [10.1109/TMM.2018.2882091](http://dx.doi.org/10.1109/TMM.2018.2882091) (ISSN: 1520-9210)
 
-8. A. Aldahdooh, E. Masala, G. Van Wallendael, P. Lambert, M. Barkowsky
-   [Improving relevant subjective testing for validation: Comparing machine learning algorithms for finding similarities in VQA datasets using objective measures](https://www.sciencedirect.com/science/article/pii/S0923596519300402)
+8. A. Aldahdooh, E. Masala, G. Van Wallendael, P. Lambert, M. Barkowsky,  
+   [Improving relevant subjective testing for validation: Comparing machine learning algorithms for finding similarities in VQA datasets using objective measures](https://www.sciencedirect.com/science/article/pii/S0923596519300402),  
    Elsevier Signal Processing: Image Communication, vol. 74, May 2019, pp. 32-41, DOI: [10.1016/j.image.2019.01.004](http://dx.doi.org/10.1016/j.image.2019.01.004) (ISSN: 0923-5965)
 
-9. M. Siekkinen, T. Kämäräinen, L. Favario, E. Masala
-   [Can You See What I See? Quality of Experience Measurements of Mobile Live Video Broadcasting](https://dx.doi.org/10.1145/3165279)
+9. M. Siekkinen, T. Kämäräinen, L. Favario, E. Masala,  
+   [Can You See What I See? Quality of Experience Measurements of Mobile Live Video Broadcasting](https://dx.doi.org/10.1145/3165279), 
    ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 14, issue 2s, May 2018, Article no. 34, DOI: [10.1145/3165279](https://dx.doi.org/10.1145/3165279) (ISSN: 1551-6857)
 
-10. A. Aldahdooh, E. Masala, G. Van Wallendael, M. Barkowsky
-    [Reproducible research framework for objective video quality measures using a large-scale database approach](http://dx.doi.org/10.1016/j.softx.2017.09.004),
+10. A. Aldahdooh, E. Masala, G. Van Wallendael, M. Barkowsky,  
+    [Reproducible research framework for objective video quality measures using a large-scale database approach](http://dx.doi.org/10.1016/j.softx.2017.09.004),  
     SoftwareX, vol. 8, pp. 64-68, 2018, DOI: [10.1016/j.softx.2017.09.004](http://dx.doi.org/10.1016/j.softx.2017.09.004) (ISSN: 2352-7110) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
-11. A. Aldahdooh, E. Masala, G. Van Wallendael, M. Barkowsky
-    [Framework for reproducible objective video quality research with case study on PSNR implementations](https://www.sciencedirect.com/science/article/pii/S1051200417302166)
+11. A. Aldahdooh, E. Masala, G. Van Wallendael, M. Barkowsky,  
+    [Framework for reproducible objective video quality research with case study on PSNR implementations](https://www.sciencedirect.com/science/article/pii/S1051200417302166),  
     Digital Signal Processing (Elsevier), vol. 77, pp. 195-206, Jun 2018, DOI: [10.1016/j.dsp.2017.09.013](http://dx.doi.org/10.1016/j.dsp.2017.09.013) (ISSN: 1051-2004)
 
-12. M. Masera, L. Re Fiorentin, E. Masala, G. Masera, M. Martina
-    [Analysis of HEVC transform throughput requirements for hardware implementations](http://porto.polito.it/2674996)
+12. M. Masera, L. Re Fiorentin, E. Masala, G. Masera, M. Martina,  
+    [Analysis of HEVC transform throughput requirements for hardware implementations](http://porto.polito.it/2674996),  
     Elsevier Signal Processing: Image Communication, vol. 57, pp. 173-182, Sep 2017, DOI: [10.1016/j.image.2017.06.001](http://dx.doi.org/10.1016/j.image.2017.06.001) (ISSN: 0923-5965)
 
-13. L. Favario, E. Masala
-    [A new architecture for cross-repository creation and sharing of educational resources](http://dx.doi.org/10.3991/ijet.v12i02.6058)
+13. L. Favario, E. Masala,  
+    [A new architecture for cross-repository creation and sharing of educational resources](http://dx.doi.org/10.3991/ijet.v12i02.6058),  
     International Journal on Emerging Technologies in Learning, vol. 12, n. 2, 25 pages, 2017, DOI: [10.3991/ijet.v12i02.6058](http://dx.doi.org/10.3991/ijet.v12i02.6058) (ISSN: 1868-8799)
 
-14. M. Siekkinen, E. Masala, J. K. Nurminen
-    [Optimized Upload Strategies for Live Scalable Video Transmission from Mobile Devices]({{site.baseurl}}/res/2011/02/paper_IEEE_TMC_authorcopy.pdf)
+14. M. Siekkinen, E. Masala, J. K. Nurminen,  
+    [Optimized Upload Strategies for Live Scalable Video Transmission from Mobile Devices]({{site.baseurl}}/res/2011/02/paper_IEEE_TMC_authorcopy.pdf),  
     IEEE Transactions on Mobile Computing, vol. 16, n. 4, pp. 1059-1072, Apr 2017, DOI: [10.1109/TMC.2016.2585138](http://dx.doi.org/10.1109/TMC.2016.2585138) (ISSN: 1536-1233)
 
-15. T. Cerquitelli, A. Servetti, E. Masala
-    [Discovering users with similar internet access performance through cluster analysis]({{site.baseurl}}/res/2011/02/journal_ESWA2016_authorcopy.pdf)
+15. T. Cerquitelli, A. Servetti, E. Masala,  
+    [Discovering users with similar internet access performance through cluster analysis]({{site.baseurl}}/res/2011/02/journal_ESWA2016_authorcopy.pdf),  
     Expert Systems with Applications, vol. 64, Dec 2016, pp. 536-548, DOI: [10.1016/j.eswa.2016.08.025](http://dx.doi.org/10.1016/j.eswa.2016.08.025) (ISSN: 0957-4174)
 
-16. E. Masala, F. De Vito, J.C. De Martin
-    [On the Effects of Sender-Receiver Concealment Mismatch on Multimedia Communication Optimization]({{site.baseurl}}/res/2011/02/journal_mtap_R1_authorcopy.pdf)
+16. E. Masala, F. De Vito, J.C. De Martin,  
+    [On the Effects of Sender-Receiver Concealment Mismatch on Multimedia Communication Optimization]({{site.baseurl}}/res/2011/02/journal_mtap_R1_authorcopy.pdf),  
     Multimedia Tools and Applications (Springer), vol. 74, n. 9, May 2015, pp. 2879-2898, DOI: [10.1007/s11042-013-1751-y](http://dx.doi.org/10.1007/s11042-013-1751-y) (ISSN: 1380-7501) (published online since Nov 2013)
 
-17. M. Barkowsky, E. Masala, G. Van Wallendael, K. Brunnstrom, N. Staelens, P. Le Callet,
-    [Objective Video Quality Assessment - Towards large scale video database enhanced model development](http://search.ieice.org/bin/summary.php?id=e98-b_1_2), (invited paper)
+17. M. Barkowsky, E. Masala, G. Van Wallendael, K. Brunnstrom, N. Staelens, P. Le Callet,  
+    [Objective Video Quality Assessment - Towards large scale video database enhanced model development](http://search.ieice.org/bin/summary.php?id=e98-b_1_2), (invited paper),  
     IEICE Transactions on Communications, vol. E98-B, n. 1, pp. 2-11, Jan 2015, DOI: [10.1587/transcom.E98.B.2](http://dx.doi.org/10.1587/transcom.E98.B.2) (ISSN: 0916-8516) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
-18. X. Ou, E. Masala, L. Qing, X. He,
-    [High-Quality Symmetric Wyner–Ziv Coding Scheme for Low-Motion Videos](http://porto.polito.it/2563537/1/JEI_14154SS_Final_proof_2.pdf)
+18. X. Ou, E. Masala, L. Qing, X. He,  
+    [High-Quality Symmetric Wyner–Ziv Coding Scheme for Low-Motion Videos](http://porto.polito.it/2563537/1/JEI_14154SS_Final_proof_2.pdf),  
     SPIE Journal of Electronic Imaging, vol. 23, n. 6, Nov 2014, DOI: [10.1117/1.JEI.23.6.061112](http://dx.doi.org/10.1117/1.JEI.23.6.061112) (ISSN: 1017-9909)
 
-19. E. Masala, A. Servetti, A.R. Meo
-    [Low-Cost 3D Supported Interactive Control]({{site.baseurl}}/res/2011/02/Masala_IEEE_IT_Professional_author_copy.pdf)
+19. E. Masala, A. Servetti, A.R. Meo,  
+    [Low-Cost 3D Supported Interactive Control]({{site.baseurl}}/res/2011/02/Masala_IEEE_IT_Professional_author_copy.pdf),  
     IEEE IT Professional, Sep-Oct 2014, vol. 16, no. 5, pp. 34-40, DOI: [10.1109/MITP.2013.87](http://dx.doi.org/10.1109/MITP.2013.87) (ISSN: 1520-9202) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
-20. E. Masala, Y. Yu, X. He
-    [Content-Based Group-Of-Picture Size Control in Distributed Video Coding]({{site.baseurl}}/res/2011/02/Masala_Yu_DVC_adaptiveGOPsize_ElsevSPIC2014_author_copy.pdf)
+20. E. Masala, Y. Yu, X. He,  
+    [Content-Based Group-Of-Picture Size Control in Distributed Video Coding]({{site.baseurl}}/res/2011/02/Masala_Yu_DVC_adaptiveGOPsize_ElsevSPIC2014_author_copy.pdf),  
     Elsevier Signal Processing: Image Communication, vol. 29, n. 3, Mar 2014, pp. 332-344, DOI: [10.1016/j.image.2014.01.013](http://dx.doi.org/10.1016/j.image.2014.01.013) (ISSN: 0923-5965)
 
-21. S. Basso, M. Meo, J.C. De Martin
-    [Strengthening Measurements from the Edges: Application-Level Packet Loss Rate Estimation]({{site.baseurl}}/res/2011/02/Basso_ACMCompCommRev_StrengtheningMeasurements_author_copy.pdf)
+21. S. Basso, M. Meo, J.C. De Martin,  
+    [Strengthening Measurements from the Edges: Application-Level Packet Loss Rate Estimation]({{site.baseurl}}/res/2011/02/Basso_ACMCompCommRev_StrengtheningMeasurements_author_copy.pdf),  
     ACM SIGCOMM Computer Communication Review, vol. 43, n. 3, July 2013, DOI: [10.1145/2500098.2500104](http://dx.doi.org/10.1145/2500098.2500104) (ISSN: 0146-4833)
 
-22. L. Qing, E. Masala, X. He
-    [Practical Distributed Video Coding in Packet Lossy Channels](http://porto.polito.it/2506302/1/OE_52_7_071506_FINAL_ORIGINAL.pdf)
+22. L. Qing, E. Masala, X. He,  
+    [Practical Distributed Video Coding in Packet Lossy Channels](http://porto.polito.it/2506302/1/OE_52_7_071506_FINAL_ORIGINAL.pdf),  
     SPIE Optical Engineering,vol. 52, n. 7, July 2013, DOI: [10.1117/1.OE.52.7.071506](http://dx.doi.org/10.1117/1.OE.52.7.071506) (ISSN: 0091-3286)
 
-23. D. Angeli, E. Masala
-    [A cost-effective cloud computing framework for accelerating multimedia communication simulations]({{site.baseurl}}/res/2011/02/masala_cloud_journal_jpdc.pdf)
+23. D. Angeli, E. Masala,  
+    [A cost-effective cloud computing framework for accelerating multimedia communication simulations]({{site.baseurl}}/res/2011/02/masala_cloud_journal_jpdc.pdf),  
     Journal of Parallel and Distributed Computing, vol. 72, n. 10, Oct. 2012, pp. 1373-1385, DOI: 10.1016/j.jpdc.2012.06.005 (ISSN: 0743-7315) [[Hottest article in JPDC (Oct-Dec 12)](http://top25.sciencedirect.com/subject/engineering/12/journal/journal-of-parallel-and-distributed-computing/07437315/archive/41)] [[Third place in audioslides competition Oct 2013](http://www.elsevier.com/physical-sciences/engineering-and-technology/hear-it-from-the-authors-discover-audioslides)] [Audioslides click here](http://www.youtube.com/watch?v=EK5axW53Qtc)
 
-24. J.K.K. Loo, Z. Xue, E. Masala, A.P.Y. Yip, D. Singh
-    [Distributed multiview video coding with 3D-DCT transform domain Wyner-Ziv codec](http://dx.doi.org/10.1504/IJMIS.2011.040929)
+24. J.K.K. Loo, Z. Xue, E. Masala, A.P.Y. Yip, D. Singh,  
+    [Distributed multiview video coding with 3D-DCT transform domain Wyner-Ziv codec](http://dx.doi.org/10.1504/IJMIS.2011.040929),  
     International Journal of Multimedia Intelligence and Security (IJMIS), vol. 2, n. 1, 2011, pp. 54-74, DOI: [10.1504/IJMIS.2011.040929](http://dx.doi.org/10.1504/IJMIS.2011.040929) (ISSN: 2042-3462)
 
-25. F.Y. Li, P. Bucciol, L. Vandoni, N. Fragoulis, S. Zanoli, L. Leschiutta, O. Lazaro
-    [Broadband Internet Access via Multi-hop Wireless Mesh Networks: Design, Protocol and Experiments]({{site.baseurl}}/res/2011/02/adhocsys_WPC_final0110.pdf)
+25. F.Y. Li, P. Bucciol, L. Vandoni, N. Fragoulis, S. Zanoli, L. Leschiutta, O. Lazaro,  
+    [Broadband Internet Access via Multi-hop Wireless Mesh Networks: Design, Protocol and Experiments]({{site.baseurl}}/res/2011/02/adhocsys_WPC_final0110.pdf),  
     Springer Wireless Personal Communications, vol. 58, n. 4, Jun 2011, pp. 807-829, DOI: [10.1007/s11277-009-9907-9](http://dx.doi.org/10.1007/s11277-009-9907-9) (ISSN: 0929-6212)
 
-26. P. Di Nunzio, F. Di Gregorio, G. Rizzo, A. Servetti
-    [Reliable SPARQL queries with consistent results over P2P-shared RDF storage]({{site.baseurl}}/res/2011/02/reliablep2prdf.pdf)
+26. P. Di Nunzio, F. Di Gregorio, G. Rizzo, A. Servetti,  
+    [Reliable SPARQL queries with consistent results over P2P-shared RDF storage]({{site.baseurl}}/res/2011/02/reliablep2prdf.pdf),  
     International Journal of Web Applications, vol. 2, n. 3, Sep 2010, pp. 151-163 (ISSN: 0974-7710)
 
-27. A. Fiandrotti, D. Gallucci, E. Masala, J.C. De Martin
-    [Content-Adaptive Traffic Prioritization of Spatio-Temporal Scalable Video for Robust Communications over QoS-Provisioned 802.11e Networks]({{site.baseurl}}/res/2011/02/Fiandrotti_Gallucci_Masala_ContentAdaptiveVideoSVC_80211e_ElsevierSPIC2010_authorcopy.pdf)
+27. A. Fiandrotti, D. Gallucci, E. Masala, J.C. De Martin,  
+    [Content-Adaptive Traffic Prioritization of Spatio-Temporal Scalable Video for Robust Communications over QoS-Provisioned 802.11e Networks]({{site.baseurl}}/res/2011/02/Fiandrotti_Gallucci_Masala_ContentAdaptiveVideoSVC_80211e_ElsevierSPIC2010_authorcopy.pdf),  
     Elsevier Signal Processing: Image Communication, vol. 25, n. 6, Jul 2010, pp. 438-449, DOI: [10.1016/j.image.2010.04.006](http://dx.doi.org/10.1016/j.image.2010.04.006) (ISSN: 0923-5965)
 
-28. E.S.G. Carotti, J.C. De Martin, R. Merletti, D. Farina
-    [Compression of Multidimensional Biomedical Signals With Spatial and Temporal Codebook-Excited Linear Prediction]({{site.baseurl}}/res/2011/02/getPDF_0.pdf)
+28. E.S.G. Carotti, J.C. De Martin, R. Merletti, D. Farina,  
+    [Compression of Multidimensional Biomedical Signals With Spatial and Temporal Codebook-Excited Linear Prediction]({{site.baseurl}}/res/2011/02/getPDF_0.pdf),  
     IEEE Transactions on Biomedical Engineering, vol. 56, n. 11, Nov 2009, pp. 2604-2610 DOI: [10.1109/TBME.2009.2027691](http://dx.doi.org/10.1109/TBME.2009.2027691) (ISSN: 0018-9294)
 
-29. E. Masala, A. Vesco, M. Baldi, J.C. De Martin
-    [ Optimized H.264 Video Encoding and Packetization for Video Transmission Over Pipeline Forwarding Networks]({{site.baseurl}}/res/2011/02/Masala_Optimized_H264_Pipeline_Forwarding_TrMM_Aug09.pdf)
+29. E. Masala, A. Vesco, M. Baldi, J.C. De Martin, 
+    [ Optimized H.264 Video Encoding and Packetization for Video Transmission Over Pipeline Forwarding Networks]({{site.baseurl}}/res/2011/02/Masala_Optimized_H264_Pipeline_Forwarding_TrMM_Aug09.pdf),  
     IEEE Transactions on Multimedia, vol. 11, n. 5, Aug 2009, pp. 972-985, DOI: [10.1109/TMM.2009.2021784](http://dx.doi.org/10.1109/TMM.2009.2021784) (ISSN: 1520-9210)
 
-30. E. Masala, D. Quaglia, J.C. De Martin
-    [Variable Time Scale Multimedia Streaming Over IP Networks]({{site.baseurl}}/res/2011/02/Masala_VariableTimeScaleStreaming_TrMM_Dec08.pdf)
+30. E. Masala, D. Quaglia, J.C. De Martin,  
+    [Variable Time Scale Multimedia Streaming Over IP Networks]({{site.baseurl}}/res/2011/02/Masala_VariableTimeScaleStreaming_TrMM_Dec08.pdf),  
     IEEE Transactions on Multimedia, vol. 10, n. 8, Dec 2008, pp. 1657-1670 DOI: [10.1109/TMM.2008.2007284](http://dx.doi.org/10.1109/TMM.2008.2007284) (ISSN: 1520-9210)
 
-31. M. Baldi, J.C. De Martin, E. Masala, A. Vesco
-    [Quality-Oriented Video Transmission With Pipeline Forwarding]({{site.baseurl}}/res/2011/02/Quality-Oriented.pdf)
+31. M. Baldi, J.C. De Martin, E. Masala, A. Vesco,  
+    [Quality-Oriented Video Transmission With Pipeline Forwarding]({{site.baseurl}}/res/2011/02/Quality-Oriented.pdf),  
     IEEE Transactions on Broadcasting, vol. 54, n. 3 (part 2), Sep 2008, pp. 542-556, DOI: [10.1109/TBC.2008.2000553](http://dx.doi.org/10.1109/TBC.2008.2000553) (ISSN: 0018-9316)
 
-32. P. Frossard, J.C. De Martin, M.R. Civanlar
-    [Media Streaming With Network Diversity]({{site.baseurl}}/res/2011/02/04404143_1.pdf)
+32. P. Frossard, J.C. De Martin, M.R. Civanlar,  
+    [Media Streaming With Network Diversity]({{site.baseurl}}/res/2011/02/04404143_1.pdf),  
     Proceedings of the IEEE, vol. 96, n. 1, Jan 2008, pp. 39-53, DOI: [10.1109/JPROC.2007.909876](http://dx.doi.org/10.1109/JPROC.2007.909876) (ISSN: 0018-9219)
 
-33. P. Bucciol, E. Masala, E. Filippi, J.C. De Martin
-    [Cross-layer Perceptual ARQ for Video Communications over 802.11e Wireless Networks]({{site.baseurl}}/res/2011/02/S168756800713969X.pdf)
+33. P. Bucciol, E. Masala, E. Filippi, J.C. De Martin,  
+    [Cross-layer Perceptual ARQ for Video Communications over 802.11e Wireless Networks]({{site.baseurl}}/res/2011/02/S168756800713969X.pdf),  
     Journal of Advances in Multimedia, vol. 2007, ArticleID 13969, 2007, 12 pp., DOI: [10.1155/2007/13969](http://dx.doi.org/10.1155/2007/13969) (ISSN: 1687-5680)
 
-34. E.S.G. Carotti, J.C. De Martin, R. Merletti, D. Farina
-    [Compression of surface EMG signals with Algebraic Code Excited Linear Prediction]({{site.baseurl}}/res/2011/02/carotti_demartin_merletti_farina.pdf)
+34. E.S.G. Carotti, J.C. De Martin, R. Merletti, D. Farina,  
+    [Compression of surface EMG signals with Algebraic Code Excited Linear Prediction]({{site.baseurl}}/res/2011/02/carotti_demartin_merletti_farina.pdf),  
     Medical Engineering & Physics, vol. 29, n. 2, Mar 2007, pp. 253–258, DOI: [10.1016/j.medengphy.2006.03.004](http://dx.doi.org/10.1016/j.medengphy.2006.03.004) (ISSN: 1350-4533)
 
-35. A. Servetti, J.C. De Martin, G. Urlini, A.L. Vitali
-    [Adaptive Playout Scheduling with Audio Time-Scaling for the Nomadik Multimedia Processor]({{site.baseurl}}/res/2011/02/art09.pdf)
+35. A. Servetti, J.C. De Martin, G. Urlini, A.L. Vitali,  
+    [Adaptive Playout Scheduling with Audio Time-Scaling for the Nomadik Multimedia Processor]({{site.baseurl}}/res/2011/02/art09.pdf),  
     ST Journal of Research, Agrate Brianza, MI, Italy, Dec 2006, vol. 3, no. 2, pp. 111-120 (ISSN: 1828-2105)
 
-36. P. Bucciol, J.C. De Martin, E. Masala, A.R. Meo
-    WiFi-Based Intervehicle Communications
+36. P. Bucciol, J.C. De Martin, E. Masala, A.R. Meo,  
+    WiFi-Based Intervehicle Communications,  
     Acta of the Science Academy of Turin, vol. 140, Dec 2006, pp. 47-55, Turin, Italy. ISSN: 0001-4419
 
-37. B. Montrucchio, D. Quaglia
-    [New Sorting-Based Lossless Motion Estimation Algorithms and a Partial Distortion Elimination Performance Analysis]({{site.baseurl}}/res/2011/02/quaglia_motion_estimation_CSVT.pdf)
+37. B. Montrucchio, D. Quaglia,  
+    [New Sorting-Based Lossless Motion Estimation Algorithms and a Partial Distortion Elimination Performance Analysis]({{site.baseurl}}/res/2011/02/quaglia_motion_estimation_CSVT.pdf),  
     IEEE Transactions on Circuits and Systems for Video Technology, vol. 15, no. 2, Feb 2005, pp. 210-220, DOI: [10.1109/TCSVT.2004.841689](http://dx.doi.org/10.1109/TCSVT.2004.841689) (ISSN: 1051-8215)
 
-38. D.J. Miller, E.S.G. Carotti, Y-W. Wang, J.C. De Martin
-    [Joint Source-channel Decoding of Predictively and Nonpredictively Encoded Sources: A Two-stage Estimation Approach]({{site.baseurl}}/res/2011/02/miller_carotti_tcom2004.pdf)
+38. D.J. Miller, E.S.G. Carotti, Y-W. Wang, J.C. De Martin,  
+    [Joint Source-channel Decoding of Predictively and Nonpredictively Encoded Sources: A Two-stage Estimation Approach]({{site.baseurl}}/res/2011/02/miller_carotti_tcom2004.pdf),  
     IEEE Transactions on Communications, vol 52, n. 9, Sep 2004, pp. 1575-1584, DOI: [10.1109/TCOMM.2004.833064](http://dx.doi.org/10.1109/TCOMM.2004.833064) (ISSN: 0090-6778)
 
-39. A. Servetti, J.C. De Martin
-    [Perception-Based Partial Encryption of Compressed Speech]({{site.baseurl}}/res/2011/02/Servetti_CryptoSpeech_TrSAP02.pdf)
+39. A. Servetti, J.C. De Martin,  
+    [Perception-Based Partial Encryption of Compressed Speech]({{site.baseurl}}/res/2011/02/Servetti_CryptoSpeech_TrSAP02.pdf),  
     IEEE Transactions on Speech and Audio Processing, Vol. 10, n. 8, Nov. 2002, pp. 637-643, DOI: [10.1109/TSA.2002.804300](http://dx.doi.org/10.1109/TSA.2002.804300) (ISSN: 1063-6676)
 
-40. A. Barberis, C. Casetti, J.C. De Martin, M. Meo
-    [A Simulation Study of Adaptive Voice Communications for IP Networks]({{site.baseurl}}/res/2011/02/Barberis_CompComm_Elsevier2001.pdf)
+40. A. Barberis, C. Casetti, J.C. De Martin, M. Meo,  
+    [A Simulation Study of Adaptive Voice Communications for IP Networks]({{site.baseurl}}/res/2011/02/Barberis_CompComm_Elsevier2001.pdf),  
     Computer Communications, Elsevier, vol. 24, n. 9, May 2001, pp. 757-767, DOI: [10.1016/S0140-3664(00)00349-2](<http://dx.doi.org/10.1016/S0140-3664(00)00349-2>) (ISSN: 0140-3664)
 
 ## Book Chapters
@@ -252,7 +256,7 @@ Full text might also be available on the university institutional repository [IR
 
 1. L. Fotio Tiotsop, A. Servetti, E. Masala,
    [A Scoring Model Considering the Variability of Subjects' Characteristics in Subjective Experiment](https://hdl.handle.net/11583/2980446),
-   Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX), Ghent, Belgium, Jun 2023, pp. 1-6, DOI:  TBA
+   Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX), Ghent, Belgium, Jun 2023, pp. 1-6, DOI: [10.1109/QoMEX58391.2023.10178476](https://doi.org/10.1109/QoMEX58391.2023.10178476)
 
 2. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, E. Masala,
    [Regularized Maximum Likelihood Estimation of the Subjective Quality from Noisy Individual Ratings](https://hdl.handle.net/11583/2971779),
