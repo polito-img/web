@@ -17,9 +17,6 @@ Speakers: Andrea Botta e Davide Sgaramella, @Storm Reply
 
 #### Sommario
 
------------
-##### La piattaforma “Live-streaming“ è un prodotto di video streaming in tempo reale, completamente Serverless, basato su servizi gestiti AWS come Lambda e DynamoDB e sfruttando AWS Elemental Medialive per l’elaborazione video. Questo progetto dimostra le potenzialità del paradigma, creando un sistema che riduca gli sprechi in termini di costo e risorse, ma che sia allo stesso tempo robusto, scalabile e disponibile 24/7 in tutto il globo
-
 Nel seminario verrà presentata l'architettura di un progetto di streaming video in tempo reale, denominato "Live-streaming", che è completamente Serverless, basato su servizi gestiti AWS come Lambda e DynamoDB e che sfrutta AWS Elemental Medialive per l'elaborazione video. Questo progetto dimostra le potenzialità del paradigma, creando un sistema che riduca gli sprechi in termini di costo e risorse, ma che sia allo stesso tempo robusto, scalabile e disponibile 24/7 in tutto il globo.  
 Il seminario è svolto all'interno del corso [Internet Video Streaming](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01URSOV&p_a_acc=2024) ed è rivolto in modo particolare agli studenti di entrambi gli anni della laurea magistrale in ingegneria informatica.
 
