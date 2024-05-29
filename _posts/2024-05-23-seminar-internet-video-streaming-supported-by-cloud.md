@@ -25,6 +25,6 @@ Il seminario è svolto all'interno del corso [Internet Video Streaming](https://
 Andrea Botta, Manager @Storm Reply  
 Ingegnere informatico, manager BU application modernization su AWS. Esperienza decennale in ambito IT su differenti processi/tool aziendali maturata sia in contesti consulenziali sia lato cliente.
 
-Davide Sgaramella, Cloud Developer @Storm reply
-Davide Sgaramella è un Cloud Developer con 2 anni di esperienza su AWS. Ha lavorato a diversi progetti Cloud native, specializzandosi nel design di soluzioni Serverless in diversi settori che spaziano dalle Telecomunicazioni ai Servizi Finanziari.
+Davide Sgaramella, Cloud Developer @Storm reply   
+Davide Sgaramella è un Cloud Developer con 2 anni di esperienza su AWS. Ha lavorato a diversi progetti Cloud native, specializzandosi nel design di soluzioni Serverless in diversi settori che spaziano dalle telecomunicazioni ai servizi finanziari.
 
