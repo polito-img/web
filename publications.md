@@ -24,11 +24,11 @@ Full text might also be available on the university institutional repository [IR
 
 1. L. Fotio Tiotsop, A. Servetti, E. Masala,  
    [Multiple Image Distortion DNN Modeling Individual Subject Quality Assessment](https://doi.org/10.1145/3664198),  
-   ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), vol. 20, Jun 2024, pp. 1-27, DOI: [10.1145/3664198](https://doi.org/10.1145/3664198) (ISSN: 1551-6857) (open access) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
+   ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), vol. 20, Jun 2024, pp. 1-27, DOI: [10.1145/3664198](https://doi.org/10.1145/3664198) (ISSN: 1551-6857) (open access) [code](https://github.com/polito-img/MD-AIOs) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
 1. A. Altieri, L. Fotio Tiotsop, G. Valenzise,  
    [Subjective Media Quality Recovery From Noisy Raw Opinion Scores: A Non-Parametric Perspective](https://doi.org/10.1109/TMM.2024.3390113),  
-   IEEE Transactions on Multimedia, vol. 26, Apr 2024, pp. 9342-9357, DOI: [10.1109/TMM.2024.3390113](https://doi.org/10.1109/TMM.2024.3390113) (ISSN: 1520-9210) (open access) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
+   IEEE Transactions on Multimedia, vol. 26, Apr 2024, pp. 9342-9357, DOI: [10.1109/TMM.2024.3390113](https://doi.org/10.1109/TMM.2024.3390113) (ISSN: 1520-9210) (open access) [code](https://github.com/polito-img/ESQR) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
 1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, E. Masala,  
    [Modeling Subject Scoring Behaviors in Subjective Experiments Based on a Discrete Quality Scale](https://doi.org/10.1109/TMM.2024.3382483),  
@@ -36,7 +36,7 @@ Full text might also be available on the university institutional repository [IR
 
 1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, P. Pocta, T. Mizdos, G. Van Wallendael, E. Masala,  
    [Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers]({{site.baseurl}}/res/2023/01/Fotio_SPIC2023_author_version.pdf),  
-   Elsevier Signal Processing: Image Communication, vol. 112, Mar 2023, pp. 1-15, DOI: [10.1016/j.image.2022.116917](https://doi.org/10.1016/j.image.2022.116917) (ISSN: 0923-5965) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
+   Elsevier Signal Processing: Image Communication, vol. 112, Mar 2023, pp. 1-15, DOI: [10.1016/j.image.2022.116917](https://doi.org/10.1016/j.image.2022.116917) (ISSN: 0923-5965) [code](https://github.com/polito-img/AI-Observers) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
 2. L. Fotio Tiotsop, T. Mizdos, M. Barkowsky, P. Pocta, A. Servetti, E. Masala,  
    [Mimicking individual media quality perception with neural network based artificial observers,](http://hdl.handle.net/11583/2909256),  
