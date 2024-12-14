@@ -16,6 +16,8 @@ It is understood that all persons copying this information will adhere to the te
 
 Some of the works also come with **publicly available data, software and resources**. Please see the corresponding [page]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers) for [more information]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers), or look for the symbol ![]({{site.baseurl}}/res/2011/02/resources_available_mini.png).
 
+Note that most of the recent software is available in our [**GitHub repositories**](https://github.com/polito-img) at [github.com/polito-img](https://github.com/polito-img).
+
 Full text might also be available on the university institutional repository [IRIS](http://iris.polito.it).
 
 <div id="form_div"></div>
@@ -32,7 +34,7 @@ Full text might also be available on the university institutional repository [IR
 
 1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, E. Masala,  
    [Modeling Subject Scoring Behaviors in Subjective Experiments Based on a Discrete Quality Scale](https://doi.org/10.1109/TMM.2024.3382483),  
-   IEEE Transactions on Multimedia, vol. 26, Mar 2024, pp. 8742-8757, DOI: [10.1109/TMM.2024.3382483](https://doi.org/10.1109/TMM.2024.3382483) (ISSN: 1520-9210) (open access)
+   IEEE Transactions on Multimedia, vol. 26, Mar 2024, pp. 8742-8757, DOI: [10.1109/TMM.2024.3382483](https://doi.org/10.1109/TMM.2024.3382483) (ISSN: 1520-9210) (open access) [code](https://github.com/polito-img/MRLE-quality) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
 1. L. Fotio Tiotsop, A. Servetti, M. Barkowsky, P. Pocta, T. Mizdos, G. Van Wallendael, E. Masala,  
    [Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers]({{site.baseurl}}/res/2023/01/Fotio_SPIC2023_author_version.pdf),  
