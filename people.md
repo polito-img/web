@@ -15,10 +15,8 @@ wordpress_id: 65
 - [Juan Carlos De Martin]({{site.baseurl}}/people/juan-carlos-de-martin), tenured full professor
 - [Enrico Masala]({{site.baseurl}}/people/masala), tenured associate professor
 - [Antonio Servetti]({{site.baseurl}}/people/servetti), tenured assistant professor
+- [Lohic Fotio Tiotsop]({{site.baseurl}}/people/lohic), fixed-term assistant professor
 
-**Post-doc researchers**
-
-- [Lohic Fotio Tiotsop]({{site.baseurl}}/people/lohic)
 
 **Former collaborators**
 
