@@ -265,6 +265,10 @@ Full text might also be available on the university institutional repository [IR
 ## International Conferences
 
 1. L. Fotio Tiotsop, A. Servetti, E. Masala,
+   [Opinion Score Distribution Prediction via AI-Based Observers in Media Quality Assessment](https://hdl.handle.net/11583/2998626),
+   Proc. IEEE 18th International Conference on Application of Information and Communication Technologies (AICT), Torino, Italy, Jun 2023, pp. 1-6, DOI: [10.1109/AICT61888.2024.10740409](https://doi.org/10.1109/AICT61888.2024.10740409)
+
+1. L. Fotio Tiotsop, A. Servetti, E. Masala,
    [A Scoring Model Considering the Variability of Subjects' Characteristics in Subjective Experiment](https://hdl.handle.net/11583/2980446),
    Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX), Ghent, Belgium, Jun 2023, pp. 1-6, DOI: [10.1109/QoMEX58391.2023.10178476](https://doi.org/10.1109/QoMEX58391.2023.10178476)
 
