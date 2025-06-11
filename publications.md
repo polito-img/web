@@ -16,7 +16,7 @@ It is understood that all persons copying this information will adhere to the te
 
 Some of the works also come with **publicly available data, software and resources**. Please see the corresponding [page]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers) for [more information]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers), or look for the symbol ![]({{site.baseurl}}/res/2011/02/resources_available_mini.png).
 
-Note that most of the recent software is available in our [**GitHub repositories**](https://github.com/polito-img) at [github.com/polito-img](https://github.com/polito-img).
+Note that most of the recent software is available in our [**GitHub repositories**](https://github.com/orgs/polito-img/repositories) at [github.com/orgs/polito-img/repositories](https://github.com/orgs/polito-img/repositories).
 
 Full text might also be available on the university institutional repository [IRIS](http://iris.polito.it).
 
