@@ -25,6 +25,10 @@ Full text might also be available on the university institutional repository [IR
 ## International Journals
 
 1. L. Fotio Tiotsop, A. Servetti, E. Masala,  
+   [CrowdRMLE: An Efficient Approach to Analyze Crowdsourcing Datasets in Image and Video Quality Assessment](https://doi.org/10.1109/TCSVT.2026.3716455),  
+   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), in press, 2026, DOI: [10.1109/TCSVT.2026.3716455](https://doi.org/https://doi.org/10.1145/3664198) (ISSN: 1051-8215) (open access) 
+
+1. L. Fotio Tiotsop, A. Servetti, E. Masala,  
    [Multiple Image Distortion DNN Modeling Individual Subject Quality Assessment](https://doi.org/10.1145/3664198),  
    ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), vol. 20, Jun 2024, pp. 1-27, DOI: [10.1145/3664198](https://doi.org/10.1145/3664198) (ISSN: 1551-6857) (open access) [code](https://github.com/polito-img/MD-AIOs) [![]({{site.baseurl}}/res/2011/02/resources_available_mini.png)]({{site.baseurl}}/software-and-data/software-and-data-for-our-research-papers)
 
